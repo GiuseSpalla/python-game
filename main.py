@@ -1,6 +1,6 @@
 import json
 from os import system
-from sty import fg, bg
+fr
 from random import choice
 import sys
 

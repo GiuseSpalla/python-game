@@ -1,18 +1,18 @@
 {
     "0": {
-        "name": "Sala",
-        "description": "Questo luogo e' abbastanza accogliente nonostante il senso di claustrofobia che ti trasmette",
+        "name": "Sala Grande",
+        "description": "Benvenuto ad Hogwarts, Questa è la sala grande, spazio ampio e di ritrovo tra studenti",
         "color": "white"
     },
 
     "1": {
-        "name": "Cucina",
-        "description": "E' tutto molto disordinato. Sembra che nessuno abbia riordinato da molto tempo",
-        "color": "red"
+        "name": "Aula di Pozioni",
+        "description": "Ovunque mi giro vedo fiale, fialette, calderoni e fumi colorati... stravagante",
+        "color": "brown"
     },
     
     "2": {
-        "name": "Sogno",
+        "name": "",
         "description": "sei evidentemente in un sogno",
         "color": "black"
     }

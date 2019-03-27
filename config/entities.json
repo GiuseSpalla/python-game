@@ -2,7 +2,7 @@
     "O": {
         "name": "coccinella",
         "color": "red",
-        "description": "che bella!",
+        "description": "mobbida!",
         "interactions":  {
             "no-item": {
                 "message": "la schiacci",
